@@ -27,5 +27,9 @@ public class Main {
         System.out.println(post.surname);
 
 
+        int Proekt;
+        Proekt = 20;
+        System.out.println(Proekt);
+
     }
 }
